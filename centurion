@@ -1,4 +1,0 @@
-It is  a CPS product and it is also a login crad we have to use username and password to login. We can get that username and password from Arena. We can generate individually whenever we want and use here for validation. But this test data will also work upto testing level we cannot have testdata and password for production level.
-
-
-`
